@@ -12,8 +12,8 @@
 ![alt TBoy](https://github.com/channel2007/VideoGame/blob/master/image/SFC_PIN.jpg "SFC")
 
 # 參考資料
-* 搖桿程式取至MoustachedBird大神
-* https://github.com/MoustachedBird/simple_NES_controller_interface
+* 搖桿程式取至MoustachedBird大神GutHub
+  * https://github.com/MoustachedBird/simple_NES_controller_interface
 
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
