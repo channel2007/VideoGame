@@ -13,6 +13,8 @@
 * 杜邦線 x N
 * 麵包板 x 1
 
+![alt TBoy](https://github.com/channel2007/VideoGame/blob/master/image/Joystick.jpg "Joy")
+
 # 線路圖 
 * 紅白機搖桿
 ![alt TBoy](https://github.com/channel2007/VideoGame/blob/master/image/FC_PIN.jpg "FC")
