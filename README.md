@@ -28,7 +28,7 @@
   * https://github.com/nathalis/NesCat
 * 搖桿程式取至MoustachedBird大神GutHub
   * https://github.com/MoustachedBird/simple_NES_controller_interface
-*(感謝以上大神辛苦付出)
+* (感謝以上大神辛苦付出)
 
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)
